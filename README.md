@@ -3,4 +3,4 @@ To start run "java -jar server.jar" in one terminal and "java -jar bungee.jar" i
 
 to reset the world simply delet the "world" folder before running the commands. 
 
-idk if plugins work i am yet to test any.
+# PLUGINS DO NOT WORK YET I AM WORKING ON ADDING SPIGOT SUPPORT
