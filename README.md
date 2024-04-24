@@ -5,4 +5,4 @@ To start run "java -jar server.jar" in one terminal and "java -jar bungee.jar" i
 
 to reset the world simply delet the "world" folder before running the commands. 
 
-# PLUGINS DO NOT WORK YET I AM WORKING ON ADDING SPIGOT SUPPORT
+# THIS PROJECT HAS BEEN ABANDONED. IT IS STILL USABLE BUT PLUGINS ARE NOT SUPPORTED TO MY KNOWLEDGE
